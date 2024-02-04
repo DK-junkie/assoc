@@ -1,0 +1,2 @@
+assoc .exe=exefile
+pause
